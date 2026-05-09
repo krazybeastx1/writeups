@@ -5,6 +5,7 @@
 ## hack-smarter
 
 * [ShadowGate](hack-smarter/shadowgate.md)
+* [Samurai](hack-smarter/samurai.md)
 
 ## Tryhackme
 
