@@ -1,2 +1,2 @@
-# Writeups
+# Page
 
